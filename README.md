@@ -5,7 +5,7 @@ The computer randomly generates a move and the winner is determined instantly.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Interactive and responsive UI
 * Random computer move generation
@@ -14,7 +14,7 @@ The computer randomly generates a move and the winner is determined instantly.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML
 * CSS
@@ -22,7 +22,7 @@ The computer randomly generates a move and the winner is determined instantly.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 rock-paper-scissors/
@@ -35,7 +35,7 @@ rock-paper-scissors/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -47,12 +47,12 @@ git clone https://github.com/Kamran-081/rock-paper-scissors.git
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Game Screenshot](images/screenshot.png)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Kamran Nazir

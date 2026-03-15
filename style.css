@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    text-align : center;
+}
+
+#gameName {
+    background-color: #081b31;
+    height: 5rem;
+    color: white;
+    line-height: 5rem ;
+}
+
+.choiceContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 3rem;
+}
+
+img {
+    height: 140px;
+    width: 140px;
+    object-fit: cover;
+    border-radius:  50%;
+}
+
+.choice {
+    height: 151px;
+    width: 151px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choice:hover {
+    cursor: pointer;
+    background-color: #081b31;
+}
+
+
+.scoreBoard {
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vh;
+    font-family: cursive;
+    gap: 3rem;
+}
+
+.score #you {
+    color: indigo;
+}
+
+.score #comp {
+    color: rgb(138, 7, 7);
+}
+
+#userScore,
+#computerScore {
+    font-size: 2.5rem;
+}
+
+
+.msgContainer {
+    margin-top: 3rem;
+}
+
+#msg{
+    background-color: #081b31;
+    color: white;
+    font-size: 1.4rem;
+    display: inline;
+    padding : 0.8rem;
+    border-radius: 1rem;
+    border: 0.22rem solid black;
+    border-top: 0;
+    border-left: 0;
+    
+}
+
+
+
+

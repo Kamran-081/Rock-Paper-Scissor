@@ -49,7 +49,7 @@ git clone https://github.com/Kamran-081/rock-paper-scissors.git
 
 ##  Screenshot
 
-![Game Screenshot](images/gameScreenshot.png)
+![Game Screenshot](images/gameScreenshot.jpg)
 
 ---
 

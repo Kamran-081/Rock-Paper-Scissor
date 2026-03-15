@@ -1,4 +1,4 @@
-*Rock Paper Scissors Game*
+__Rock Paper Scissors Game__
 
 A simple **Rock Paper Scissors** browser game where the player competes against the computer.
 The computer randomly generates a move and the winner is determined instantly.
@@ -22,11 +22,10 @@ The computer randomly generates a move and the winner is determined instantly.
 # 📂 Project Structure
 
 rock-paper-scissors/
-│
-├── index.html
-├── style.css
-├── app.js
-└── images/
+index.html
+style.css
+app.js
+images/
 
 
 # ▶️ How to Run
@@ -39,9 +38,11 @@ git clone https://github.com/Kamran-081/rock-paper-scissors.git
 2. Open **index.html** in your browser.
 
 
+
 #  Screenshot
 
 ![Game Screenshot](images/gameScreenshot.png)
+
 
 
 #  Author
